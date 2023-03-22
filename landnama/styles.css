@@ -33,6 +33,9 @@ h5,
 h6 {
   font-size: 100%;
   font-weight: normal;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 2em;
 }
 
 ul {
@@ -126,6 +129,11 @@ p {
   margin: 0 auto 1em auto;
 }
 
+ul.list {
+  list-style-type: disc;
+  padding: 0em 0 1em 8em;
+}
+
 .page {
   max-width: 800px;
   margin: 0 auto;
@@ -136,12 +144,11 @@ p {
   display: block;
 }
 
-.short-description {
+.center {
   text-align: center;
-  margin: 1em auto;
 }
 
-.studio-description {
+.mv-1 {
   margin: 1em auto;
 }
 
