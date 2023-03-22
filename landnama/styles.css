@@ -131,12 +131,20 @@ p {
 
 ul.list {
   list-style-type: disc;
-  padding: 0em 0 1em 8em;
+  padding: 0em 0 1em 2em;
 }
+
+@media only screen and (min-width: 800px)  {
+  ul.list {
+    padding: 0em 0 1em 8em;
+  }
+}
+
 
 .page {
   max-width: 800px;
   margin: 0 auto;
+  padding: 0 0.5em;
 }
 
 .logo {
@@ -160,13 +168,16 @@ ul.list {
 .stores {
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 640px;
 }
 
 .stores a {
   display: inline-flex;
   position: relative;
-  height: 60px;
   margin: 2em 0.5em 0.5em 0.5em;
+  max-width: 200px;
 }
 
 .stores a .tooltip {
@@ -204,15 +215,22 @@ ul.list {
   opacity: 0.6;
 }
 
+@media only screen and (min-width: 800px)  {
+  .stores {
+    flex-direction: row;
+  }
+}
+
 /* Screenshots */
 .screenshots {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .screenshot {
-  margin: 6px;
-  flex: 0 0 254px;
+  margin: 2%;
+  flex: 0 0 46%;
 }
 
 .screenshot a,
@@ -248,6 +266,13 @@ ul.list {
   justify-content: center;
 }
 
+@media only screen and (min-width: 800px)  {
+  .screenshot {
+    margin: 1%;
+    flex: 0 0 30%;
+  }
+}
+
 /* Fonts */
 @font-face {
   font-display: swap;
@@ -267,11 +292,12 @@ ul.nav {
   padding: 0.5em 0;
   display: flex;
   justify-content: center;
+  font-size: 0.9em;
 }
 
 ul.nav li {
   flex: 0 1 0%;
-  margin: 0.25em 0.5em;
+  margin: 0 2px;
 }
 
 /* Follow */
@@ -294,4 +320,14 @@ ul.follow li a {
 
 ul.follow li a:hover {
   transform: scale(1.1);
+}
+
+/* Branding */
+.branding-wrap {
+  display: flex;
+}
+
+.branding {
+  display: inline-flex;
+  margin: 5px;
 }
