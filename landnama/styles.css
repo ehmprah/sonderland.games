@@ -132,15 +132,16 @@ p {
 
 ul.list {
   list-style-type: disc;
-  padding: 0em 0 1em 2em;
+  padding: 0em 0 0 1em;
 }
 
-@media only screen and (min-width: 800px)  {
+@media only screen and (min-width: 800px) {
   ul.list {
-    padding: 0em 0 1em 8em;
+    padding: 0 0 0 1em;
+    max-width: 600px;
+    margin: 0 auto;
   }
 }
-
 
 .page {
   max-width: 800px;
@@ -155,6 +156,11 @@ ul.list {
 
 .center {
   text-align: center;
+}
+
+.gif {
+  display: block;
+  margin: 0 auto;
 }
 
 .mv-1 {
