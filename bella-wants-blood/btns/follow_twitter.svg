@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="follow_twitter.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.0520833"
+     inkscape:cx="-98.680205"
+     inkscape:cy="24.121828"
+     inkscape:window-width="2560"
+     inkscape:window-height="963"
+     inkscape:window-x="1080"
+     inkscape:window-y="384"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="m 114.09355,27.862066 c -3.92443,1.750086 -7.23175,1.80794 -10.73675,0.07714 4.52226,-2.7095 4.72475,-4.613863 6.36395,-9.738769 -4.23299,2.516652 -8.91917,4.339055 -13.913901,5.327395 -3.977468,-4.252274 -9.671272,-6.918382 -15.972544,-6.918382 -12.101142,0 -21.907407,9.815907 -21.907407,21.907407 0,1.716337 0.192847,3.389284 0.568899,4.994734 -18.199925,-0.916023 -34.346031,-9.632702 -45.150278,-22.890926 -1.880257,3.230186 -2.965021,7.000342 -2.965021,11.016379 0,7.602988 3.86658,14.304418 9.738768,18.233673 -3.591774,-0.130171 -6.966594,-1.108869 -9.917152,-2.748068 v 0.269986 c 0,10.616221 7.549956,19.467893 17.577994,21.483143 -3.220543,0.867811 -6.605006,1.012446 -9.907509,0.385694 2.79628,8.692573 10.881386,15.027594 20.465877,15.205977 -9.372359,7.347467 -20.996205,10.413732 -32.432026,9.063804 9.685735,6.243418 21.193873,9.859297 33.565001,9.859297 40.295358,0 62.328119,-33.381796 62.328119,-62.337757 0,-0.949771 -0.0145,-1.889899 -0.0579,-2.830028 4.27637,-3.08555 9.41574,-5.96379 12.35183,-10.36552 z"
+     id="path2"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#d9b68a;fill-opacity:1;stroke-width:4.82117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+</svg>
