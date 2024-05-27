@@ -361,14 +361,14 @@ ul.follow li a:hover {
 }
 
 /* Clans */
-.clans-wrap {
+.art-wrap {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
 }
 
-.clan {
+.art {
   margin: 5px;
+  max-width: 100px;
 }
 
 @media only screen and (min-width: 800px)  {
