@@ -216,3 +216,9 @@ ul.nav li {
   max-width: 250px;
   margin: 5px;
 }
+
+.primary {
+  display: block;
+  max-width: 510px;
+  margin: 0 auto;
+}
